@@ -1,0 +1,17 @@
+{
+  "vocab_size": 10000,
+  "embed_dim": 256,
+  "num_heads": 4,
+  "key_dim": 64,
+  "ff_dim": 512,
+  "num_layers": 2,
+  "seq_length": 50,
+  "metrics": {
+    "train_loss": 6.623754024505615,
+    "val_loss": 7.004784107208252,
+    "val_accuracy": 0.027391305193305016,
+    "train_perplexity": 752.7657003787064,
+    "val_perplexity": 1101.8921387588725,
+    "epochs_trained": 4
+  }
+}

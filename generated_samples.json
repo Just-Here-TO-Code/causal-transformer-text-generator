@@ -1,0 +1,20 @@
+{
+  "shall i compare thee to a summer's day": {
+    "greedy": "shall i compare thee to a summer's day the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+    "temperature_0.7": "shall i compare thee to a summer's day you while by be and and the man be what [UNK] richmond hath to and and i not my i your and i of a on to is it the",
+    "temperature_1.2": "shall i compare thee to a summer's day things with to owl bestir manners now you pale can a down and attach thy yield good leontes capulet it wifeif keeps tribes society sorrow male of your and sir",
+    "top_p_0.9": "shall i compare thee to a summer's day [UNK] of how my of me and say the rest come to the at no are or the a and richard so my the you you are but most not"
+  },
+  "to be or not to be": {
+    "greedy": "to be or not to be the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+    "temperature_0.7": "to be or not to be the thy our with thee in not my the the the this i is coriolanus to my if to the i and those well this see more and most for",
+    "temperature_1.2": "to be or not to be passage returned o my have edward heed swore [UNK] even too he a well slower from bolingbroke heads am varlets confine what hast do shall and enough call to we",
+    "top_p_0.9": "to be or not to be great i to it back i thy well i are a but but his and yet you to the he what the is i thou to will [UNK] done and"
+  },
+  "all the world is a stage": {
+    "greedy": "all the world is a stage the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+    "temperature_0.7": "all the world is a stage of the iii these to he how with not to the made much this of of no made romeo lord but the and warwick your [UNK] the have [UNK] and",
+    "temperature_1.2": "all the world is a stage madam banishd remember he earl thou sir wretch grey revolt didst hold of say no him unmeriting there unlawful shepherd titus call thought though your antigonus we the fly me",
+    "top_p_0.9": "all the world is a stage power being whose a the look in many wife queen you [UNK] duke you to with done by be and this paulina and is where do by we a of"
+  }
+}
